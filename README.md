@@ -1,3 +1,3 @@
 # silly audio!! 🎶
 
-* mp3 format sounds in main branch
+* mp3 format sounds
